@@ -1,0 +1,2 @@
+CF = 4.2/(2pi)
+i.e. the lut needs to be multiplied by 4.2/(2pi)

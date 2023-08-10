@@ -25,7 +25,7 @@ Public Class clsMeasurementSetup
         SLM.intScreenNo = 1
 
         'Set up Camera
-        Camera = New clsThorlabsCamDC
+        Camera = New clsBlackflyCam
         Camera.Load("D:\RPM Data Files\Output Camera Pol 1.txt")
 
         'Set up hologram
